@@ -40,7 +40,7 @@ const createSnippets = (templateFn, modules) => _(modules)
   .replace(/^/, "'.source.js':") +
   "\n";
 
-const writeToFile = (fileName, str) => fs.writeFileSync(`keymaps/lodash-modules-snippets-${fileName}.cson`, str, "utf8");
+const writeToFile = (fileName, str) => fs.writeFileSync(`snippets/lodash-modules-snippets-${fileName}.cson`, str, "utf8");
 
 // Read the modules from library
 const modules = _.chain(fs.readdirSync(path.dirname(require.resolve("lodash"))))

@@ -1,0 +1,1491 @@
+'.source.js':
+  'ES lodash/add':
+    'prefix': 'i_add'
+    'body': """
+    import add from 'lodash/add';
+    """
+  'ES lodash/after':
+    'prefix': 'i_after'
+    'body': """
+    import after from 'lodash/after';
+    """
+  'ES lodash/array':
+    'prefix': 'i_array'
+    'body': """
+    import array from 'lodash/array';
+    """
+  'ES lodash/ary':
+    'prefix': 'i_ary'
+    'body': """
+    import ary from 'lodash/ary';
+    """
+  'ES lodash/assign':
+    'prefix': 'i_assign'
+    'body': """
+    import assign from 'lodash/assign';
+    """
+  'ES lodash/assignIn':
+    'prefix': 'i_assignIn'
+    'body': """
+    import assignIn from 'lodash/assignIn';
+    """
+  'ES lodash/assignInWith':
+    'prefix': 'i_assignInWith'
+    'body': """
+    import assignInWith from 'lodash/assignInWith';
+    """
+  'ES lodash/assignWith':
+    'prefix': 'i_assignWith'
+    'body': """
+    import assignWith from 'lodash/assignWith';
+    """
+  'ES lodash/at':
+    'prefix': 'i_at'
+    'body': """
+    import at from 'lodash/at';
+    """
+  'ES lodash/attempt':
+    'prefix': 'i_attempt'
+    'body': """
+    import attempt from 'lodash/attempt';
+    """
+  'ES lodash/before':
+    'prefix': 'i_before'
+    'body': """
+    import before from 'lodash/before';
+    """
+  'ES lodash/bind':
+    'prefix': 'i_bind'
+    'body': """
+    import bind from 'lodash/bind';
+    """
+  'ES lodash/bindAll':
+    'prefix': 'i_bindAll'
+    'body': """
+    import bindAll from 'lodash/bindAll';
+    """
+  'ES lodash/bindKey':
+    'prefix': 'i_bindKey'
+    'body': """
+    import bindKey from 'lodash/bindKey';
+    """
+  'ES lodash/camelCase':
+    'prefix': 'i_camelCase'
+    'body': """
+    import camelCase from 'lodash/camelCase';
+    """
+  'ES lodash/capitalize':
+    'prefix': 'i_capitalize'
+    'body': """
+    import capitalize from 'lodash/capitalize';
+    """
+  'ES lodash/ceil':
+    'prefix': 'i_ceil'
+    'body': """
+    import ceil from 'lodash/ceil';
+    """
+  'ES lodash/chain':
+    'prefix': 'i_chain'
+    'body': """
+    import chain from 'lodash/chain';
+    """
+  'ES lodash/chunk':
+    'prefix': 'i_chunk'
+    'body': """
+    import chunk from 'lodash/chunk';
+    """
+  'ES lodash/clamp':
+    'prefix': 'i_clamp'
+    'body': """
+    import clamp from 'lodash/clamp';
+    """
+  'ES lodash/clone':
+    'prefix': 'i_clone'
+    'body': """
+    import clone from 'lodash/clone';
+    """
+  'ES lodash/cloneDeep':
+    'prefix': 'i_cloneDeep'
+    'body': """
+    import cloneDeep from 'lodash/cloneDeep';
+    """
+  'ES lodash/cloneDeepWith':
+    'prefix': 'i_cloneDeepWith'
+    'body': """
+    import cloneDeepWith from 'lodash/cloneDeepWith';
+    """
+  'ES lodash/cloneWith':
+    'prefix': 'i_cloneWith'
+    'body': """
+    import cloneWith from 'lodash/cloneWith';
+    """
+  'ES lodash/collection':
+    'prefix': 'i_collection'
+    'body': """
+    import collection from 'lodash/collection';
+    """
+  'ES lodash/commit':
+    'prefix': 'i_commit'
+    'body': """
+    import commit from 'lodash/commit';
+    """
+  'ES lodash/compact':
+    'prefix': 'i_compact'
+    'body': """
+    import compact from 'lodash/compact';
+    """
+  'ES lodash/concat':
+    'prefix': 'i_concat'
+    'body': """
+    import concat from 'lodash/concat';
+    """
+  'ES lodash/cond':
+    'prefix': 'i_cond'
+    'body': """
+    import cond from 'lodash/cond';
+    """
+  'ES lodash/conforms':
+    'prefix': 'i_conforms'
+    'body': """
+    import conforms from 'lodash/conforms';
+    """
+  'ES lodash/constant':
+    'prefix': 'i_constant'
+    'body': """
+    import constant from 'lodash/constant';
+    """
+  'ES lodash/countBy':
+    'prefix': 'i_countBy'
+    'body': """
+    import countBy from 'lodash/countBy';
+    """
+  'ES lodash/create':
+    'prefix': 'i_create'
+    'body': """
+    import create from 'lodash/create';
+    """
+  'ES lodash/curry':
+    'prefix': 'i_curry'
+    'body': """
+    import curry from 'lodash/curry';
+    """
+  'ES lodash/curryRight':
+    'prefix': 'i_curryRight'
+    'body': """
+    import curryRight from 'lodash/curryRight';
+    """
+  'ES lodash/date':
+    'prefix': 'i_date'
+    'body': """
+    import date from 'lodash/date';
+    """
+  'ES lodash/debounce':
+    'prefix': 'i_debounce'
+    'body': """
+    import debounce from 'lodash/debounce';
+    """
+  'ES lodash/deburr':
+    'prefix': 'i_deburr'
+    'body': """
+    import deburr from 'lodash/deburr';
+    """
+  'ES lodash/defaults':
+    'prefix': 'i_defaults'
+    'body': """
+    import defaults from 'lodash/defaults';
+    """
+  'ES lodash/defaultsDeep':
+    'prefix': 'i_defaultsDeep'
+    'body': """
+    import defaultsDeep from 'lodash/defaultsDeep';
+    """
+  'ES lodash/defer':
+    'prefix': 'i_defer'
+    'body': """
+    import defer from 'lodash/defer';
+    """
+  'ES lodash/delay':
+    'prefix': 'i_delay'
+    'body': """
+    import delay from 'lodash/delay';
+    """
+  'ES lodash/difference':
+    'prefix': 'i_difference'
+    'body': """
+    import difference from 'lodash/difference';
+    """
+  'ES lodash/differenceBy':
+    'prefix': 'i_differenceBy'
+    'body': """
+    import differenceBy from 'lodash/differenceBy';
+    """
+  'ES lodash/differenceWith':
+    'prefix': 'i_differenceWith'
+    'body': """
+    import differenceWith from 'lodash/differenceWith';
+    """
+  'ES lodash/drop':
+    'prefix': 'i_drop'
+    'body': """
+    import drop from 'lodash/drop';
+    """
+  'ES lodash/dropRight':
+    'prefix': 'i_dropRight'
+    'body': """
+    import dropRight from 'lodash/dropRight';
+    """
+  'ES lodash/dropRightWhile':
+    'prefix': 'i_dropRightWhile'
+    'body': """
+    import dropRightWhile from 'lodash/dropRightWhile';
+    """
+  'ES lodash/dropWhile':
+    'prefix': 'i_dropWhile'
+    'body': """
+    import dropWhile from 'lodash/dropWhile';
+    """
+  'ES lodash/each':
+    'prefix': 'i_each'
+    'body': """
+    import each from 'lodash/each';
+    """
+  'ES lodash/eachRight':
+    'prefix': 'i_eachRight'
+    'body': """
+    import eachRight from 'lodash/eachRight';
+    """
+  'ES lodash/endsWith':
+    'prefix': 'i_endsWith'
+    'body': """
+    import endsWith from 'lodash/endsWith';
+    """
+  'ES lodash/eq':
+    'prefix': 'i_eq'
+    'body': """
+    import eq from 'lodash/eq';
+    """
+  'ES lodash/escape':
+    'prefix': 'i_escape'
+    'body': """
+    import escape from 'lodash/escape';
+    """
+  'ES lodash/escapeRegExp':
+    'prefix': 'i_escapeRegExp'
+    'body': """
+    import escapeRegExp from 'lodash/escapeRegExp';
+    """
+  'ES lodash/every':
+    'prefix': 'i_every'
+    'body': """
+    import every from 'lodash/every';
+    """
+  'ES lodash/fill':
+    'prefix': 'i_fill'
+    'body': """
+    import fill from 'lodash/fill';
+    """
+  'ES lodash/filter':
+    'prefix': 'i_filter'
+    'body': """
+    import filter from 'lodash/filter';
+    """
+  'ES lodash/find':
+    'prefix': 'i_find'
+    'body': """
+    import find from 'lodash/find';
+    """
+  'ES lodash/findIndex':
+    'prefix': 'i_findIndex'
+    'body': """
+    import findIndex from 'lodash/findIndex';
+    """
+  'ES lodash/findKey':
+    'prefix': 'i_findKey'
+    'body': """
+    import findKey from 'lodash/findKey';
+    """
+  'ES lodash/findLast':
+    'prefix': 'i_findLast'
+    'body': """
+    import findLast from 'lodash/findLast';
+    """
+  'ES lodash/findLastIndex':
+    'prefix': 'i_findLastIndex'
+    'body': """
+    import findLastIndex from 'lodash/findLastIndex';
+    """
+  'ES lodash/findLastKey':
+    'prefix': 'i_findLastKey'
+    'body': """
+    import findLastKey from 'lodash/findLastKey';
+    """
+  'ES lodash/flatMap':
+    'prefix': 'i_flatMap'
+    'body': """
+    import flatMap from 'lodash/flatMap';
+    """
+  'ES lodash/flatten':
+    'prefix': 'i_flatten'
+    'body': """
+    import flatten from 'lodash/flatten';
+    """
+  'ES lodash/flattenDeep':
+    'prefix': 'i_flattenDeep'
+    'body': """
+    import flattenDeep from 'lodash/flattenDeep';
+    """
+  'ES lodash/flip':
+    'prefix': 'i_flip'
+    'body': """
+    import flip from 'lodash/flip';
+    """
+  'ES lodash/floor':
+    'prefix': 'i_floor'
+    'body': """
+    import floor from 'lodash/floor';
+    """
+  'ES lodash/flow':
+    'prefix': 'i_flow'
+    'body': """
+    import flow from 'lodash/flow';
+    """
+  'ES lodash/flowRight':
+    'prefix': 'i_flowRight'
+    'body': """
+    import flowRight from 'lodash/flowRight';
+    """
+  'ES lodash/forEach':
+    'prefix': 'i_forEach'
+    'body': """
+    import forEach from 'lodash/forEach';
+    """
+  'ES lodash/forEachRight':
+    'prefix': 'i_forEachRight'
+    'body': """
+    import forEachRight from 'lodash/forEachRight';
+    """
+  'ES lodash/forIn':
+    'prefix': 'i_forIn'
+    'body': """
+    import forIn from 'lodash/forIn';
+    """
+  'ES lodash/forInRight':
+    'prefix': 'i_forInRight'
+    'body': """
+    import forInRight from 'lodash/forInRight';
+    """
+  'ES lodash/forOwn':
+    'prefix': 'i_forOwn'
+    'body': """
+    import forOwn from 'lodash/forOwn';
+    """
+  'ES lodash/forOwnRight':
+    'prefix': 'i_forOwnRight'
+    'body': """
+    import forOwnRight from 'lodash/forOwnRight';
+    """
+  'ES lodash/fp':
+    'prefix': 'i_fp'
+    'body': """
+    import fp from 'lodash/fp';
+    """
+  'ES lodash/fromPairs':
+    'prefix': 'i_fromPairs'
+    'body': """
+    import fromPairs from 'lodash/fromPairs';
+    """
+  'ES lodash/function':
+    'prefix': 'i_function'
+    'body': """
+    import function from 'lodash/function';
+    """
+  'ES lodash/functions':
+    'prefix': 'i_functions'
+    'body': """
+    import functions from 'lodash/functions';
+    """
+  'ES lodash/functionsIn':
+    'prefix': 'i_functionsIn'
+    'body': """
+    import functionsIn from 'lodash/functionsIn';
+    """
+  'ES lodash/get':
+    'prefix': 'i_get'
+    'body': """
+    import get from 'lodash/get';
+    """
+  'ES lodash/groupBy':
+    'prefix': 'i_groupBy'
+    'body': """
+    import groupBy from 'lodash/groupBy';
+    """
+  'ES lodash/gt':
+    'prefix': 'i_gt'
+    'body': """
+    import gt from 'lodash/gt';
+    """
+  'ES lodash/gte':
+    'prefix': 'i_gte'
+    'body': """
+    import gte from 'lodash/gte';
+    """
+  'ES lodash/has':
+    'prefix': 'i_has'
+    'body': """
+    import has from 'lodash/has';
+    """
+  'ES lodash/hasIn':
+    'prefix': 'i_hasIn'
+    'body': """
+    import hasIn from 'lodash/hasIn';
+    """
+  'ES lodash/head':
+    'prefix': 'i_head'
+    'body': """
+    import head from 'lodash/head';
+    """
+  'ES lodash/identity':
+    'prefix': 'i_identity'
+    'body': """
+    import identity from 'lodash/identity';
+    """
+  'ES lodash/inRange':
+    'prefix': 'i_inRange'
+    'body': """
+    import inRange from 'lodash/inRange';
+    """
+  'ES lodash/includes':
+    'prefix': 'i_includes'
+    'body': """
+    import includes from 'lodash/includes';
+    """
+  'ES lodash/indexOf':
+    'prefix': 'i_indexOf'
+    'body': """
+    import indexOf from 'lodash/indexOf';
+    """
+  'ES lodash/initial':
+    'prefix': 'i_initial'
+    'body': """
+    import initial from 'lodash/initial';
+    """
+  'ES lodash/intersection':
+    'prefix': 'i_intersection'
+    'body': """
+    import intersection from 'lodash/intersection';
+    """
+  'ES lodash/intersectionBy':
+    'prefix': 'i_intersectionBy'
+    'body': """
+    import intersectionBy from 'lodash/intersectionBy';
+    """
+  'ES lodash/intersectionWith':
+    'prefix': 'i_intersectionWith'
+    'body': """
+    import intersectionWith from 'lodash/intersectionWith';
+    """
+  'ES lodash/invert':
+    'prefix': 'i_invert'
+    'body': """
+    import invert from 'lodash/invert';
+    """
+  'ES lodash/invoke':
+    'prefix': 'i_invoke'
+    'body': """
+    import invoke from 'lodash/invoke';
+    """
+  'ES lodash/invokeMap':
+    'prefix': 'i_invokeMap'
+    'body': """
+    import invokeMap from 'lodash/invokeMap';
+    """
+  'ES lodash/isArguments':
+    'prefix': 'i_isArguments'
+    'body': """
+    import isArguments from 'lodash/isArguments';
+    """
+  'ES lodash/isArray':
+    'prefix': 'i_isArray'
+    'body': """
+    import isArray from 'lodash/isArray';
+    """
+  'ES lodash/isArrayLike':
+    'prefix': 'i_isArrayLike'
+    'body': """
+    import isArrayLike from 'lodash/isArrayLike';
+    """
+  'ES lodash/isArrayLikeObject':
+    'prefix': 'i_isArrayLikeObject'
+    'body': """
+    import isArrayLikeObject from 'lodash/isArrayLikeObject';
+    """
+  'ES lodash/isBoolean':
+    'prefix': 'i_isBoolean'
+    'body': """
+    import isBoolean from 'lodash/isBoolean';
+    """
+  'ES lodash/isDate':
+    'prefix': 'i_isDate'
+    'body': """
+    import isDate from 'lodash/isDate';
+    """
+  'ES lodash/isElement':
+    'prefix': 'i_isElement'
+    'body': """
+    import isElement from 'lodash/isElement';
+    """
+  'ES lodash/isEmpty':
+    'prefix': 'i_isEmpty'
+    'body': """
+    import isEmpty from 'lodash/isEmpty';
+    """
+  'ES lodash/isEqual':
+    'prefix': 'i_isEqual'
+    'body': """
+    import isEqual from 'lodash/isEqual';
+    """
+  'ES lodash/isEqualWith':
+    'prefix': 'i_isEqualWith'
+    'body': """
+    import isEqualWith from 'lodash/isEqualWith';
+    """
+  'ES lodash/isError':
+    'prefix': 'i_isError'
+    'body': """
+    import isError from 'lodash/isError';
+    """
+  'ES lodash/isFinite':
+    'prefix': 'i_isFinite'
+    'body': """
+    import _isFinite from 'lodash/isFinite';
+    """
+  'ES lodash/isFunction':
+    'prefix': 'i_isFunction'
+    'body': """
+    import isFunction from 'lodash/isFunction';
+    """
+  'ES lodash/isInteger':
+    'prefix': 'i_isInteger'
+    'body': """
+    import isInteger from 'lodash/isInteger';
+    """
+  'ES lodash/isLength':
+    'prefix': 'i_isLength'
+    'body': """
+    import isLength from 'lodash/isLength';
+    """
+  'ES lodash/isMatch':
+    'prefix': 'i_isMatch'
+    'body': """
+    import isMatch from 'lodash/isMatch';
+    """
+  'ES lodash/isMatchWith':
+    'prefix': 'i_isMatchWith'
+    'body': """
+    import isMatchWith from 'lodash/isMatchWith';
+    """
+  'ES lodash/isNaN':
+    'prefix': 'i_isNaN'
+    'body': """
+    import _isNaN from 'lodash/isNaN';
+    """
+  'ES lodash/isNative':
+    'prefix': 'i_isNative'
+    'body': """
+    import isNative from 'lodash/isNative';
+    """
+  'ES lodash/isNil':
+    'prefix': 'i_isNil'
+    'body': """
+    import isNil from 'lodash/isNil';
+    """
+  'ES lodash/isNull':
+    'prefix': 'i_isNull'
+    'body': """
+    import isNull from 'lodash/isNull';
+    """
+  'ES lodash/isNumber':
+    'prefix': 'i_isNumber'
+    'body': """
+    import isNumber from 'lodash/isNumber';
+    """
+  'ES lodash/isObject':
+    'prefix': 'i_isObject'
+    'body': """
+    import isObject from 'lodash/isObject';
+    """
+  'ES lodash/isObjectLike':
+    'prefix': 'i_isObjectLike'
+    'body': """
+    import isObjectLike from 'lodash/isObjectLike';
+    """
+  'ES lodash/isPlainObject':
+    'prefix': 'i_isPlainObject'
+    'body': """
+    import isPlainObject from 'lodash/isPlainObject';
+    """
+  'ES lodash/isRegExp':
+    'prefix': 'i_isRegExp'
+    'body': """
+    import isRegExp from 'lodash/isRegExp';
+    """
+  'ES lodash/isSafeInteger':
+    'prefix': 'i_isSafeInteger'
+    'body': """
+    import isSafeInteger from 'lodash/isSafeInteger';
+    """
+  'ES lodash/isString':
+    'prefix': 'i_isString'
+    'body': """
+    import isString from 'lodash/isString';
+    """
+  'ES lodash/isSymbol':
+    'prefix': 'i_isSymbol'
+    'body': """
+    import isSymbol from 'lodash/isSymbol';
+    """
+  'ES lodash/isTypedArray':
+    'prefix': 'i_isTypedArray'
+    'body': """
+    import isTypedArray from 'lodash/isTypedArray';
+    """
+  'ES lodash/isUndefined':
+    'prefix': 'i_isUndefined'
+    'body': """
+    import isUndefined from 'lodash/isUndefined';
+    """
+  'ES lodash/iteratee':
+    'prefix': 'i_iteratee'
+    'body': """
+    import iteratee from 'lodash/iteratee';
+    """
+  'ES lodash/join':
+    'prefix': 'i_join'
+    'body': """
+    import join from 'lodash/join';
+    """
+  'ES lodash/kebabCase':
+    'prefix': 'i_kebabCase'
+    'body': """
+    import kebabCase from 'lodash/kebabCase';
+    """
+  'ES lodash/keyBy':
+    'prefix': 'i_keyBy'
+    'body': """
+    import keyBy from 'lodash/keyBy';
+    """
+  'ES lodash/keys':
+    'prefix': 'i_keys'
+    'body': """
+    import keys from 'lodash/keys';
+    """
+  'ES lodash/keysIn':
+    'prefix': 'i_keysIn'
+    'body': """
+    import keysIn from 'lodash/keysIn';
+    """
+  'ES lodash/lang':
+    'prefix': 'i_lang'
+    'body': """
+    import lang from 'lodash/lang';
+    """
+  'ES lodash/last':
+    'prefix': 'i_last'
+    'body': """
+    import last from 'lodash/last';
+    """
+  'ES lodash/lastIndexOf':
+    'prefix': 'i_lastIndexOf'
+    'body': """
+    import lastIndexOf from 'lodash/lastIndexOf';
+    """
+  'ES lodash/lowerCase':
+    'prefix': 'i_lowerCase'
+    'body': """
+    import lowerCase from 'lodash/lowerCase';
+    """
+  'ES lodash/lowerFirst':
+    'prefix': 'i_lowerFirst'
+    'body': """
+    import lowerFirst from 'lodash/lowerFirst';
+    """
+  'ES lodash/lt':
+    'prefix': 'i_lt'
+    'body': """
+    import lt from 'lodash/lt';
+    """
+  'ES lodash/lte':
+    'prefix': 'i_lte'
+    'body': """
+    import lte from 'lodash/lte';
+    """
+  'ES lodash/map':
+    'prefix': 'i_map'
+    'body': """
+    import map from 'lodash/map';
+    """
+  'ES lodash/mapKeys':
+    'prefix': 'i_mapKeys'
+    'body': """
+    import mapKeys from 'lodash/mapKeys';
+    """
+  'ES lodash/mapValues':
+    'prefix': 'i_mapValues'
+    'body': """
+    import mapValues from 'lodash/mapValues';
+    """
+  'ES lodash/matches':
+    'prefix': 'i_matches'
+    'body': """
+    import matches from 'lodash/matches';
+    """
+  'ES lodash/matchesProperty':
+    'prefix': 'i_matchesProperty'
+    'body': """
+    import matchesProperty from 'lodash/matchesProperty';
+    """
+  'ES lodash/math':
+    'prefix': 'i_math'
+    'body': """
+    import math from 'lodash/math';
+    """
+  'ES lodash/max':
+    'prefix': 'i_max'
+    'body': """
+    import max from 'lodash/max';
+    """
+  'ES lodash/maxBy':
+    'prefix': 'i_maxBy'
+    'body': """
+    import maxBy from 'lodash/maxBy';
+    """
+  'ES lodash/mean':
+    'prefix': 'i_mean'
+    'body': """
+    import mean from 'lodash/mean';
+    """
+  'ES lodash/memoize':
+    'prefix': 'i_memoize'
+    'body': """
+    import memoize from 'lodash/memoize';
+    """
+  'ES lodash/merge':
+    'prefix': 'i_merge'
+    'body': """
+    import merge from 'lodash/merge';
+    """
+  'ES lodash/mergeWith':
+    'prefix': 'i_mergeWith'
+    'body': """
+    import mergeWith from 'lodash/mergeWith';
+    """
+  'ES lodash/method':
+    'prefix': 'i_method'
+    'body': """
+    import method from 'lodash/method';
+    """
+  'ES lodash/methodOf':
+    'prefix': 'i_methodOf'
+    'body': """
+    import methodOf from 'lodash/methodOf';
+    """
+  'ES lodash/min':
+    'prefix': 'i_min'
+    'body': """
+    import min from 'lodash/min';
+    """
+  'ES lodash/minBy':
+    'prefix': 'i_minBy'
+    'body': """
+    import minBy from 'lodash/minBy';
+    """
+  'ES lodash/mixin':
+    'prefix': 'i_mixin'
+    'body': """
+    import mixin from 'lodash/mixin';
+    """
+  'ES lodash/negate':
+    'prefix': 'i_negate'
+    'body': """
+    import negate from 'lodash/negate';
+    """
+  'ES lodash/next':
+    'prefix': 'i_next'
+    'body': """
+    import next from 'lodash/next';
+    """
+  'ES lodash/noop':
+    'prefix': 'i_noop'
+    'body': """
+    import noop from 'lodash/noop';
+    """
+  'ES lodash/now':
+    'prefix': 'i_now'
+    'body': """
+    import now from 'lodash/now';
+    """
+  'ES lodash/nthArg':
+    'prefix': 'i_nthArg'
+    'body': """
+    import nthArg from 'lodash/nthArg';
+    """
+  'ES lodash/number':
+    'prefix': 'i_number'
+    'body': """
+    import number from 'lodash/number';
+    """
+  'ES lodash/object':
+    'prefix': 'i_object'
+    'body': """
+    import object from 'lodash/object';
+    """
+  'ES lodash/omit':
+    'prefix': 'i_omit'
+    'body': """
+    import omit from 'lodash/omit';
+    """
+  'ES lodash/omitBy':
+    'prefix': 'i_omitBy'
+    'body': """
+    import omitBy from 'lodash/omitBy';
+    """
+  'ES lodash/once':
+    'prefix': 'i_once'
+    'body': """
+    import once from 'lodash/once';
+    """
+  'ES lodash/orderBy':
+    'prefix': 'i_orderBy'
+    'body': """
+    import orderBy from 'lodash/orderBy';
+    """
+  'ES lodash/over':
+    'prefix': 'i_over'
+    'body': """
+    import over from 'lodash/over';
+    """
+  'ES lodash/overArgs':
+    'prefix': 'i_overArgs'
+    'body': """
+    import overArgs from 'lodash/overArgs';
+    """
+  'ES lodash/overEvery':
+    'prefix': 'i_overEvery'
+    'body': """
+    import overEvery from 'lodash/overEvery';
+    """
+  'ES lodash/overSome':
+    'prefix': 'i_overSome'
+    'body': """
+    import overSome from 'lodash/overSome';
+    """
+  'ES lodash/pad':
+    'prefix': 'i_pad'
+    'body': """
+    import pad from 'lodash/pad';
+    """
+  'ES lodash/padEnd':
+    'prefix': 'i_padEnd'
+    'body': """
+    import padEnd from 'lodash/padEnd';
+    """
+  'ES lodash/padStart':
+    'prefix': 'i_padStart'
+    'body': """
+    import padStart from 'lodash/padStart';
+    """
+  'ES lodash/parseInt':
+    'prefix': 'i_parseInt'
+    'body': """
+    import parseInt from 'lodash/parseInt';
+    """
+  'ES lodash/partial':
+    'prefix': 'i_partial'
+    'body': """
+    import partial from 'lodash/partial';
+    """
+  'ES lodash/partialRight':
+    'prefix': 'i_partialRight'
+    'body': """
+    import partialRight from 'lodash/partialRight';
+    """
+  'ES lodash/partition':
+    'prefix': 'i_partition'
+    'body': """
+    import partition from 'lodash/partition';
+    """
+  'ES lodash/pick':
+    'prefix': 'i_pick'
+    'body': """
+    import pick from 'lodash/pick';
+    """
+  'ES lodash/pickBy':
+    'prefix': 'i_pickBy'
+    'body': """
+    import pickBy from 'lodash/pickBy';
+    """
+  'ES lodash/plant':
+    'prefix': 'i_plant'
+    'body': """
+    import plant from 'lodash/plant';
+    """
+  'ES lodash/property':
+    'prefix': 'i_property'
+    'body': """
+    import property from 'lodash/property';
+    """
+  'ES lodash/propertyOf':
+    'prefix': 'i_propertyOf'
+    'body': """
+    import propertyOf from 'lodash/propertyOf';
+    """
+  'ES lodash/pull':
+    'prefix': 'i_pull'
+    'body': """
+    import pull from 'lodash/pull';
+    """
+  'ES lodash/pullAll':
+    'prefix': 'i_pullAll'
+    'body': """
+    import pullAll from 'lodash/pullAll';
+    """
+  'ES lodash/pullAllBy':
+    'prefix': 'i_pullAllBy'
+    'body': """
+    import pullAllBy from 'lodash/pullAllBy';
+    """
+  'ES lodash/pullAt':
+    'prefix': 'i_pullAt'
+    'body': """
+    import pullAt from 'lodash/pullAt';
+    """
+  'ES lodash/random':
+    'prefix': 'i_random'
+    'body': """
+    import random from 'lodash/random';
+    """
+  'ES lodash/range':
+    'prefix': 'i_range'
+    'body': """
+    import range from 'lodash/range';
+    """
+  'ES lodash/rangeRight':
+    'prefix': 'i_rangeRight'
+    'body': """
+    import rangeRight from 'lodash/rangeRight';
+    """
+  'ES lodash/rearg':
+    'prefix': 'i_rearg'
+    'body': """
+    import rearg from 'lodash/rearg';
+    """
+  'ES lodash/reduce':
+    'prefix': 'i_reduce'
+    'body': """
+    import reduce from 'lodash/reduce';
+    """
+  'ES lodash/reduceRight':
+    'prefix': 'i_reduceRight'
+    'body': """
+    import reduceRight from 'lodash/reduceRight';
+    """
+  'ES lodash/reject':
+    'prefix': 'i_reject'
+    'body': """
+    import reject from 'lodash/reject';
+    """
+  'ES lodash/remove':
+    'prefix': 'i_remove'
+    'body': """
+    import remove from 'lodash/remove';
+    """
+  'ES lodash/repeat':
+    'prefix': 'i_repeat'
+    'body': """
+    import repeat from 'lodash/repeat';
+    """
+  'ES lodash/replace':
+    'prefix': 'i_replace'
+    'body': """
+    import replace from 'lodash/replace';
+    """
+  'ES lodash/rest':
+    'prefix': 'i_rest'
+    'body': """
+    import rest from 'lodash/rest';
+    """
+  'ES lodash/result':
+    'prefix': 'i_result'
+    'body': """
+    import result from 'lodash/result';
+    """
+  'ES lodash/reverse':
+    'prefix': 'i_reverse'
+    'body': """
+    import reverse from 'lodash/reverse';
+    """
+  'ES lodash/round':
+    'prefix': 'i_round'
+    'body': """
+    import round from 'lodash/round';
+    """
+  'ES lodash/sample':
+    'prefix': 'i_sample'
+    'body': """
+    import sample from 'lodash/sample';
+    """
+  'ES lodash/sampleSize':
+    'prefix': 'i_sampleSize'
+    'body': """
+    import sampleSize from 'lodash/sampleSize';
+    """
+  'ES lodash/seq':
+    'prefix': 'i_seq'
+    'body': """
+    import seq from 'lodash/seq';
+    """
+  'ES lodash/set':
+    'prefix': 'i_set'
+    'body': """
+    import set from 'lodash/set';
+    """
+  'ES lodash/setWith':
+    'prefix': 'i_setWith'
+    'body': """
+    import setWith from 'lodash/setWith';
+    """
+  'ES lodash/shuffle':
+    'prefix': 'i_shuffle'
+    'body': """
+    import shuffle from 'lodash/shuffle';
+    """
+  'ES lodash/size':
+    'prefix': 'i_size'
+    'body': """
+    import size from 'lodash/size';
+    """
+  'ES lodash/slice':
+    'prefix': 'i_slice'
+    'body': """
+    import slice from 'lodash/slice';
+    """
+  'ES lodash/snakeCase':
+    'prefix': 'i_snakeCase'
+    'body': """
+    import snakeCase from 'lodash/snakeCase';
+    """
+  'ES lodash/some':
+    'prefix': 'i_some'
+    'body': """
+    import some from 'lodash/some';
+    """
+  'ES lodash/sortBy':
+    'prefix': 'i_sortBy'
+    'body': """
+    import sortBy from 'lodash/sortBy';
+    """
+  'ES lodash/sortedIndex':
+    'prefix': 'i_sortedIndex'
+    'body': """
+    import sortedIndex from 'lodash/sortedIndex';
+    """
+  'ES lodash/sortedIndexBy':
+    'prefix': 'i_sortedIndexBy'
+    'body': """
+    import sortedIndexBy from 'lodash/sortedIndexBy';
+    """
+  'ES lodash/sortedIndexOf':
+    'prefix': 'i_sortedIndexOf'
+    'body': """
+    import sortedIndexOf from 'lodash/sortedIndexOf';
+    """
+  'ES lodash/sortedLastIndex':
+    'prefix': 'i_sortedLastIndex'
+    'body': """
+    import sortedLastIndex from 'lodash/sortedLastIndex';
+    """
+  'ES lodash/sortedLastIndexBy':
+    'prefix': 'i_sortedLastIndexBy'
+    'body': """
+    import sortedLastIndexBy from 'lodash/sortedLastIndexBy';
+    """
+  'ES lodash/sortedLastIndexOf':
+    'prefix': 'i_sortedLastIndexOf'
+    'body': """
+    import sortedLastIndexOf from 'lodash/sortedLastIndexOf';
+    """
+  'ES lodash/sortedUniq':
+    'prefix': 'i_sortedUniq'
+    'body': """
+    import sortedUniq from 'lodash/sortedUniq';
+    """
+  'ES lodash/sortedUniqBy':
+    'prefix': 'i_sortedUniqBy'
+    'body': """
+    import sortedUniqBy from 'lodash/sortedUniqBy';
+    """
+  'ES lodash/split':
+    'prefix': 'i_split'
+    'body': """
+    import split from 'lodash/split';
+    """
+  'ES lodash/spread':
+    'prefix': 'i_spread'
+    'body': """
+    import spread from 'lodash/spread';
+    """
+  'ES lodash/startCase':
+    'prefix': 'i_startCase'
+    'body': """
+    import startCase from 'lodash/startCase';
+    """
+  'ES lodash/startsWith':
+    'prefix': 'i_startsWith'
+    'body': """
+    import startsWith from 'lodash/startsWith';
+    """
+  'ES lodash/string':
+    'prefix': 'i_string'
+    'body': """
+    import string from 'lodash/string';
+    """
+  'ES lodash/subtract':
+    'prefix': 'i_subtract'
+    'body': """
+    import subtract from 'lodash/subtract';
+    """
+  'ES lodash/sum':
+    'prefix': 'i_sum'
+    'body': """
+    import sum from 'lodash/sum';
+    """
+  'ES lodash/sumBy':
+    'prefix': 'i_sumBy'
+    'body': """
+    import sumBy from 'lodash/sumBy';
+    """
+  'ES lodash/tail':
+    'prefix': 'i_tail'
+    'body': """
+    import tail from 'lodash/tail';
+    """
+  'ES lodash/take':
+    'prefix': 'i_take'
+    'body': """
+    import take from 'lodash/take';
+    """
+  'ES lodash/takeRight':
+    'prefix': 'i_takeRight'
+    'body': """
+    import takeRight from 'lodash/takeRight';
+    """
+  'ES lodash/takeRightWhile':
+    'prefix': 'i_takeRightWhile'
+    'body': """
+    import takeRightWhile from 'lodash/takeRightWhile';
+    """
+  'ES lodash/takeWhile':
+    'prefix': 'i_takeWhile'
+    'body': """
+    import takeWhile from 'lodash/takeWhile';
+    """
+  'ES lodash/tap':
+    'prefix': 'i_tap'
+    'body': """
+    import tap from 'lodash/tap';
+    """
+  'ES lodash/template':
+    'prefix': 'i_template'
+    'body': """
+    import template from 'lodash/template';
+    """
+  'ES lodash/templateSettings':
+    'prefix': 'i_templateSettings'
+    'body': """
+    import templateSettings from 'lodash/templateSettings';
+    """
+  'ES lodash/throttle':
+    'prefix': 'i_throttle'
+    'body': """
+    import throttle from 'lodash/throttle';
+    """
+  'ES lodash/thru':
+    'prefix': 'i_thru'
+    'body': """
+    import thru from 'lodash/thru';
+    """
+  'ES lodash/times':
+    'prefix': 'i_times'
+    'body': """
+    import times from 'lodash/times';
+    """
+  'ES lodash/toArray':
+    'prefix': 'i_toArray'
+    'body': """
+    import toArray from 'lodash/toArray';
+    """
+  'ES lodash/toInteger':
+    'prefix': 'i_toInteger'
+    'body': """
+    import toInteger from 'lodash/toInteger';
+    """
+  'ES lodash/toIterator':
+    'prefix': 'i_toIterator'
+    'body': """
+    import toIterator from 'lodash/toIterator';
+    """
+  'ES lodash/toJSON':
+    'prefix': 'i_toJSON'
+    'body': """
+    import toJSON from 'lodash/toJSON';
+    """
+  'ES lodash/toLength':
+    'prefix': 'i_toLength'
+    'body': """
+    import toLength from 'lodash/toLength';
+    """
+  'ES lodash/toLower':
+    'prefix': 'i_toLower'
+    'body': """
+    import toLower from 'lodash/toLower';
+    """
+  'ES lodash/toNumber':
+    'prefix': 'i_toNumber'
+    'body': """
+    import toNumber from 'lodash/toNumber';
+    """
+  'ES lodash/toPairs':
+    'prefix': 'i_toPairs'
+    'body': """
+    import toPairs from 'lodash/toPairs';
+    """
+  'ES lodash/toPairsIn':
+    'prefix': 'i_toPairsIn'
+    'body': """
+    import toPairsIn from 'lodash/toPairsIn';
+    """
+  'ES lodash/toPath':
+    'prefix': 'i_toPath'
+    'body': """
+    import toPath from 'lodash/toPath';
+    """
+  'ES lodash/toPlainObject':
+    'prefix': 'i_toPlainObject'
+    'body': """
+    import toPlainObject from 'lodash/toPlainObject';
+    """
+  'ES lodash/toSafeInteger':
+    'prefix': 'i_toSafeInteger'
+    'body': """
+    import toSafeInteger from 'lodash/toSafeInteger';
+    """
+  'ES lodash/toString':
+    'prefix': 'i_toString'
+    'body': """
+    import toString from 'lodash/toString';
+    """
+  'ES lodash/toUpper':
+    'prefix': 'i_toUpper'
+    'body': """
+    import toUpper from 'lodash/toUpper';
+    """
+  'ES lodash/transform':
+    'prefix': 'i_transform'
+    'body': """
+    import transform from 'lodash/transform';
+    """
+  'ES lodash/trim':
+    'prefix': 'i_trim'
+    'body': """
+    import trim from 'lodash/trim';
+    """
+  'ES lodash/trimEnd':
+    'prefix': 'i_trimEnd'
+    'body': """
+    import trimEnd from 'lodash/trimEnd';
+    """
+  'ES lodash/trimStart':
+    'prefix': 'i_trimStart'
+    'body': """
+    import trimStart from 'lodash/trimStart';
+    """
+  'ES lodash/truncate':
+    'prefix': 'i_truncate'
+    'body': """
+    import truncate from 'lodash/truncate';
+    """
+  'ES lodash/unary':
+    'prefix': 'i_unary'
+    'body': """
+    import unary from 'lodash/unary';
+    """
+  'ES lodash/unescape':
+    'prefix': 'i_unescape'
+    'body': """
+    import unescape from 'lodash/unescape';
+    """
+  'ES lodash/union':
+    'prefix': 'i_union'
+    'body': """
+    import union from 'lodash/union';
+    """
+  'ES lodash/unionBy':
+    'prefix': 'i_unionBy'
+    'body': """
+    import unionBy from 'lodash/unionBy';
+    """
+  'ES lodash/unionWith':
+    'prefix': 'i_unionWith'
+    'body': """
+    import unionWith from 'lodash/unionWith';
+    """
+  'ES lodash/uniq':
+    'prefix': 'i_uniq'
+    'body': """
+    import uniq from 'lodash/uniq';
+    """
+  'ES lodash/uniqBy':
+    'prefix': 'i_uniqBy'
+    'body': """
+    import uniqBy from 'lodash/uniqBy';
+    """
+  'ES lodash/uniqWith':
+    'prefix': 'i_uniqWith'
+    'body': """
+    import uniqWith from 'lodash/uniqWith';
+    """
+  'ES lodash/uniqueId':
+    'prefix': 'i_uniqueId'
+    'body': """
+    import uniqueId from 'lodash/uniqueId';
+    """
+  'ES lodash/unset':
+    'prefix': 'i_unset'
+    'body': """
+    import unset from 'lodash/unset';
+    """
+  'ES lodash/unzip':
+    'prefix': 'i_unzip'
+    'body': """
+    import unzip from 'lodash/unzip';
+    """
+  'ES lodash/unzipWith':
+    'prefix': 'i_unzipWith'
+    'body': """
+    import unzipWith from 'lodash/unzipWith';
+    """
+  'ES lodash/upperCase':
+    'prefix': 'i_upperCase'
+    'body': """
+    import upperCase from 'lodash/upperCase';
+    """
+  'ES lodash/upperFirst':
+    'prefix': 'i_upperFirst'
+    'body': """
+    import upperFirst from 'lodash/upperFirst';
+    """
+  'ES lodash/util':
+    'prefix': 'i_util'
+    'body': """
+    import util from 'lodash/util';
+    """
+  'ES lodash/value':
+    'prefix': 'i_value'
+    'body': """
+    import value from 'lodash/value';
+    """
+  'ES lodash/valueOf':
+    'prefix': 'i_valueOf'
+    'body': """
+    import _valueOf from 'lodash/valueOf';
+    """
+  'ES lodash/values':
+    'prefix': 'i_values'
+    'body': """
+    import values from 'lodash/values';
+    """
+  'ES lodash/valuesIn':
+    'prefix': 'i_valuesIn'
+    'body': """
+    import valuesIn from 'lodash/valuesIn';
+    """
+  'ES lodash/without':
+    'prefix': 'i_without'
+    'body': """
+    import without from 'lodash/without';
+    """
+  'ES lodash/words':
+    'prefix': 'i_words'
+    'body': """
+    import words from 'lodash/words';
+    """
+  'ES lodash/wrap':
+    'prefix': 'i_wrap'
+    'body': """
+    import wrap from 'lodash/wrap';
+    """
+  'ES lodash/wrapperAt':
+    'prefix': 'i_wrapperAt'
+    'body': """
+    import wrapperAt from 'lodash/wrapperAt';
+    """
+  'ES lodash/wrapperChain':
+    'prefix': 'i_wrapperChain'
+    'body': """
+    import wrapperChain from 'lodash/wrapperChain';
+    """
+  'ES lodash/wrapperFlatMap':
+    'prefix': 'i_wrapperFlatMap'
+    'body': """
+    import wrapperFlatMap from 'lodash/wrapperFlatMap';
+    """
+  'ES lodash/wrapperLodash':
+    'prefix': 'i_wrapperLodash'
+    'body': """
+    import wrapperLodash from 'lodash/wrapperLodash';
+    """
+  'ES lodash/wrapperReverse':
+    'prefix': 'i_wrapperReverse'
+    'body': """
+    import wrapperReverse from 'lodash/wrapperReverse';
+    """
+  'ES lodash/wrapperValue':
+    'prefix': 'i_wrapperValue'
+    'body': """
+    import wrapperValue from 'lodash/wrapperValue';
+    """
+  'ES lodash/xor':
+    'prefix': 'i_xor'
+    'body': """
+    import xor from 'lodash/xor';
+    """
+  'ES lodash/xorBy':
+    'prefix': 'i_xorBy'
+    'body': """
+    import xorBy from 'lodash/xorBy';
+    """
+  'ES lodash/xorWith':
+    'prefix': 'i_xorWith'
+    'body': """
+    import xorWith from 'lodash/xorWith';
+    """
+  'ES lodash/zip':
+    'prefix': 'i_zip'
+    'body': """
+    import zip from 'lodash/zip';
+    """
+  'ES lodash/zipObject':
+    'prefix': 'i_zipObject'
+    'body': """
+    import zipObject from 'lodash/zipObject';
+    """
+  'ES lodash/zipWith':
+    'prefix': 'i_zipWith'
+    'body': """
+    import zipWith from 'lodash/zipWith';
+    """
+  'ES lodash':
+    'prefix': 'i_lodash'
+    'body': """
+    import _ from 'lodash';
+    """

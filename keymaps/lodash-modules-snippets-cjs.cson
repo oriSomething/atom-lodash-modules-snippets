@@ -1,0 +1,1491 @@
+'.source.js':
+  'CJS lodash/add':
+    'prefix': 'r_add'
+    'body': """
+    const add = require('lodash/add');
+    """
+  'CJS lodash/after':
+    'prefix': 'r_after'
+    'body': """
+    const after = require('lodash/after');
+    """
+  'CJS lodash/array':
+    'prefix': 'r_array'
+    'body': """
+    const array = require('lodash/array');
+    """
+  'CJS lodash/ary':
+    'prefix': 'r_ary'
+    'body': """
+    const ary = require('lodash/ary');
+    """
+  'CJS lodash/assign':
+    'prefix': 'r_assign'
+    'body': """
+    const assign = require('lodash/assign');
+    """
+  'CJS lodash/assignIn':
+    'prefix': 'r_assignIn'
+    'body': """
+    const assignIn = require('lodash/assignIn');
+    """
+  'CJS lodash/assignInWith':
+    'prefix': 'r_assignInWith'
+    'body': """
+    const assignInWith = require('lodash/assignInWith');
+    """
+  'CJS lodash/assignWith':
+    'prefix': 'r_assignWith'
+    'body': """
+    const assignWith = require('lodash/assignWith');
+    """
+  'CJS lodash/at':
+    'prefix': 'r_at'
+    'body': """
+    const at = require('lodash/at');
+    """
+  'CJS lodash/attempt':
+    'prefix': 'r_attempt'
+    'body': """
+    const attempt = require('lodash/attempt');
+    """
+  'CJS lodash/before':
+    'prefix': 'r_before'
+    'body': """
+    const before = require('lodash/before');
+    """
+  'CJS lodash/bind':
+    'prefix': 'r_bind'
+    'body': """
+    const bind = require('lodash/bind');
+    """
+  'CJS lodash/bindAll':
+    'prefix': 'r_bindAll'
+    'body': """
+    const bindAll = require('lodash/bindAll');
+    """
+  'CJS lodash/bindKey':
+    'prefix': 'r_bindKey'
+    'body': """
+    const bindKey = require('lodash/bindKey');
+    """
+  'CJS lodash/camelCase':
+    'prefix': 'r_camelCase'
+    'body': """
+    const camelCase = require('lodash/camelCase');
+    """
+  'CJS lodash/capitalize':
+    'prefix': 'r_capitalize'
+    'body': """
+    const capitalize = require('lodash/capitalize');
+    """
+  'CJS lodash/ceil':
+    'prefix': 'r_ceil'
+    'body': """
+    const ceil = require('lodash/ceil');
+    """
+  'CJS lodash/chain':
+    'prefix': 'r_chain'
+    'body': """
+    const chain = require('lodash/chain');
+    """
+  'CJS lodash/chunk':
+    'prefix': 'r_chunk'
+    'body': """
+    const chunk = require('lodash/chunk');
+    """
+  'CJS lodash/clamp':
+    'prefix': 'r_clamp'
+    'body': """
+    const clamp = require('lodash/clamp');
+    """
+  'CJS lodash/clone':
+    'prefix': 'r_clone'
+    'body': """
+    const clone = require('lodash/clone');
+    """
+  'CJS lodash/cloneDeep':
+    'prefix': 'r_cloneDeep'
+    'body': """
+    const cloneDeep = require('lodash/cloneDeep');
+    """
+  'CJS lodash/cloneDeepWith':
+    'prefix': 'r_cloneDeepWith'
+    'body': """
+    const cloneDeepWith = require('lodash/cloneDeepWith');
+    """
+  'CJS lodash/cloneWith':
+    'prefix': 'r_cloneWith'
+    'body': """
+    const cloneWith = require('lodash/cloneWith');
+    """
+  'CJS lodash/collection':
+    'prefix': 'r_collection'
+    'body': """
+    const collection = require('lodash/collection');
+    """
+  'CJS lodash/commit':
+    'prefix': 'r_commit'
+    'body': """
+    const commit = require('lodash/commit');
+    """
+  'CJS lodash/compact':
+    'prefix': 'r_compact'
+    'body': """
+    const compact = require('lodash/compact');
+    """
+  'CJS lodash/concat':
+    'prefix': 'r_concat'
+    'body': """
+    const concat = require('lodash/concat');
+    """
+  'CJS lodash/cond':
+    'prefix': 'r_cond'
+    'body': """
+    const cond = require('lodash/cond');
+    """
+  'CJS lodash/conforms':
+    'prefix': 'r_conforms'
+    'body': """
+    const conforms = require('lodash/conforms');
+    """
+  'CJS lodash/constant':
+    'prefix': 'r_constant'
+    'body': """
+    const constant = require('lodash/constant');
+    """
+  'CJS lodash/countBy':
+    'prefix': 'r_countBy'
+    'body': """
+    const countBy = require('lodash/countBy');
+    """
+  'CJS lodash/create':
+    'prefix': 'r_create'
+    'body': """
+    const create = require('lodash/create');
+    """
+  'CJS lodash/curry':
+    'prefix': 'r_curry'
+    'body': """
+    const curry = require('lodash/curry');
+    """
+  'CJS lodash/curryRight':
+    'prefix': 'r_curryRight'
+    'body': """
+    const curryRight = require('lodash/curryRight');
+    """
+  'CJS lodash/date':
+    'prefix': 'r_date'
+    'body': """
+    const date = require('lodash/date');
+    """
+  'CJS lodash/debounce':
+    'prefix': 'r_debounce'
+    'body': """
+    const debounce = require('lodash/debounce');
+    """
+  'CJS lodash/deburr':
+    'prefix': 'r_deburr'
+    'body': """
+    const deburr = require('lodash/deburr');
+    """
+  'CJS lodash/defaults':
+    'prefix': 'r_defaults'
+    'body': """
+    const defaults = require('lodash/defaults');
+    """
+  'CJS lodash/defaultsDeep':
+    'prefix': 'r_defaultsDeep'
+    'body': """
+    const defaultsDeep = require('lodash/defaultsDeep');
+    """
+  'CJS lodash/defer':
+    'prefix': 'r_defer'
+    'body': """
+    const defer = require('lodash/defer');
+    """
+  'CJS lodash/delay':
+    'prefix': 'r_delay'
+    'body': """
+    const delay = require('lodash/delay');
+    """
+  'CJS lodash/difference':
+    'prefix': 'r_difference'
+    'body': """
+    const difference = require('lodash/difference');
+    """
+  'CJS lodash/differenceBy':
+    'prefix': 'r_differenceBy'
+    'body': """
+    const differenceBy = require('lodash/differenceBy');
+    """
+  'CJS lodash/differenceWith':
+    'prefix': 'r_differenceWith'
+    'body': """
+    const differenceWith = require('lodash/differenceWith');
+    """
+  'CJS lodash/drop':
+    'prefix': 'r_drop'
+    'body': """
+    const drop = require('lodash/drop');
+    """
+  'CJS lodash/dropRight':
+    'prefix': 'r_dropRight'
+    'body': """
+    const dropRight = require('lodash/dropRight');
+    """
+  'CJS lodash/dropRightWhile':
+    'prefix': 'r_dropRightWhile'
+    'body': """
+    const dropRightWhile = require('lodash/dropRightWhile');
+    """
+  'CJS lodash/dropWhile':
+    'prefix': 'r_dropWhile'
+    'body': """
+    const dropWhile = require('lodash/dropWhile');
+    """
+  'CJS lodash/each':
+    'prefix': 'r_each'
+    'body': """
+    const each = require('lodash/each');
+    """
+  'CJS lodash/eachRight':
+    'prefix': 'r_eachRight'
+    'body': """
+    const eachRight = require('lodash/eachRight');
+    """
+  'CJS lodash/endsWith':
+    'prefix': 'r_endsWith'
+    'body': """
+    const endsWith = require('lodash/endsWith');
+    """
+  'CJS lodash/eq':
+    'prefix': 'r_eq'
+    'body': """
+    const eq = require('lodash/eq');
+    """
+  'CJS lodash/escape':
+    'prefix': 'r_escape'
+    'body': """
+    const escape = require('lodash/escape');
+    """
+  'CJS lodash/escapeRegExp':
+    'prefix': 'r_escapeRegExp'
+    'body': """
+    const escapeRegExp = require('lodash/escapeRegExp');
+    """
+  'CJS lodash/every':
+    'prefix': 'r_every'
+    'body': """
+    const every = require('lodash/every');
+    """
+  'CJS lodash/fill':
+    'prefix': 'r_fill'
+    'body': """
+    const fill = require('lodash/fill');
+    """
+  'CJS lodash/filter':
+    'prefix': 'r_filter'
+    'body': """
+    const filter = require('lodash/filter');
+    """
+  'CJS lodash/find':
+    'prefix': 'r_find'
+    'body': """
+    const find = require('lodash/find');
+    """
+  'CJS lodash/findIndex':
+    'prefix': 'r_findIndex'
+    'body': """
+    const findIndex = require('lodash/findIndex');
+    """
+  'CJS lodash/findKey':
+    'prefix': 'r_findKey'
+    'body': """
+    const findKey = require('lodash/findKey');
+    """
+  'CJS lodash/findLast':
+    'prefix': 'r_findLast'
+    'body': """
+    const findLast = require('lodash/findLast');
+    """
+  'CJS lodash/findLastIndex':
+    'prefix': 'r_findLastIndex'
+    'body': """
+    const findLastIndex = require('lodash/findLastIndex');
+    """
+  'CJS lodash/findLastKey':
+    'prefix': 'r_findLastKey'
+    'body': """
+    const findLastKey = require('lodash/findLastKey');
+    """
+  'CJS lodash/flatMap':
+    'prefix': 'r_flatMap'
+    'body': """
+    const flatMap = require('lodash/flatMap');
+    """
+  'CJS lodash/flatten':
+    'prefix': 'r_flatten'
+    'body': """
+    const flatten = require('lodash/flatten');
+    """
+  'CJS lodash/flattenDeep':
+    'prefix': 'r_flattenDeep'
+    'body': """
+    const flattenDeep = require('lodash/flattenDeep');
+    """
+  'CJS lodash/flip':
+    'prefix': 'r_flip'
+    'body': """
+    const flip = require('lodash/flip');
+    """
+  'CJS lodash/floor':
+    'prefix': 'r_floor'
+    'body': """
+    const floor = require('lodash/floor');
+    """
+  'CJS lodash/flow':
+    'prefix': 'r_flow'
+    'body': """
+    const flow = require('lodash/flow');
+    """
+  'CJS lodash/flowRight':
+    'prefix': 'r_flowRight'
+    'body': """
+    const flowRight = require('lodash/flowRight');
+    """
+  'CJS lodash/forEach':
+    'prefix': 'r_forEach'
+    'body': """
+    const forEach = require('lodash/forEach');
+    """
+  'CJS lodash/forEachRight':
+    'prefix': 'r_forEachRight'
+    'body': """
+    const forEachRight = require('lodash/forEachRight');
+    """
+  'CJS lodash/forIn':
+    'prefix': 'r_forIn'
+    'body': """
+    const forIn = require('lodash/forIn');
+    """
+  'CJS lodash/forInRight':
+    'prefix': 'r_forInRight'
+    'body': """
+    const forInRight = require('lodash/forInRight');
+    """
+  'CJS lodash/forOwn':
+    'prefix': 'r_forOwn'
+    'body': """
+    const forOwn = require('lodash/forOwn');
+    """
+  'CJS lodash/forOwnRight':
+    'prefix': 'r_forOwnRight'
+    'body': """
+    const forOwnRight = require('lodash/forOwnRight');
+    """
+  'CJS lodash/fp':
+    'prefix': 'r_fp'
+    'body': """
+    const fp = require('lodash/fp');
+    """
+  'CJS lodash/fromPairs':
+    'prefix': 'r_fromPairs'
+    'body': """
+    const fromPairs = require('lodash/fromPairs');
+    """
+  'CJS lodash/function':
+    'prefix': 'r_function'
+    'body': """
+    const function = require('lodash/function');
+    """
+  'CJS lodash/functions':
+    'prefix': 'r_functions'
+    'body': """
+    const functions = require('lodash/functions');
+    """
+  'CJS lodash/functionsIn':
+    'prefix': 'r_functionsIn'
+    'body': """
+    const functionsIn = require('lodash/functionsIn');
+    """
+  'CJS lodash/get':
+    'prefix': 'r_get'
+    'body': """
+    const get = require('lodash/get');
+    """
+  'CJS lodash/groupBy':
+    'prefix': 'r_groupBy'
+    'body': """
+    const groupBy = require('lodash/groupBy');
+    """
+  'CJS lodash/gt':
+    'prefix': 'r_gt'
+    'body': """
+    const gt = require('lodash/gt');
+    """
+  'CJS lodash/gte':
+    'prefix': 'r_gte'
+    'body': """
+    const gte = require('lodash/gte');
+    """
+  'CJS lodash/has':
+    'prefix': 'r_has'
+    'body': """
+    const has = require('lodash/has');
+    """
+  'CJS lodash/hasIn':
+    'prefix': 'r_hasIn'
+    'body': """
+    const hasIn = require('lodash/hasIn');
+    """
+  'CJS lodash/head':
+    'prefix': 'r_head'
+    'body': """
+    const head = require('lodash/head');
+    """
+  'CJS lodash/identity':
+    'prefix': 'r_identity'
+    'body': """
+    const identity = require('lodash/identity');
+    """
+  'CJS lodash/inRange':
+    'prefix': 'r_inRange'
+    'body': """
+    const inRange = require('lodash/inRange');
+    """
+  'CJS lodash/includes':
+    'prefix': 'r_includes'
+    'body': """
+    const includes = require('lodash/includes');
+    """
+  'CJS lodash/indexOf':
+    'prefix': 'r_indexOf'
+    'body': """
+    const indexOf = require('lodash/indexOf');
+    """
+  'CJS lodash/initial':
+    'prefix': 'r_initial'
+    'body': """
+    const initial = require('lodash/initial');
+    """
+  'CJS lodash/intersection':
+    'prefix': 'r_intersection'
+    'body': """
+    const intersection = require('lodash/intersection');
+    """
+  'CJS lodash/intersectionBy':
+    'prefix': 'r_intersectionBy'
+    'body': """
+    const intersectionBy = require('lodash/intersectionBy');
+    """
+  'CJS lodash/intersectionWith':
+    'prefix': 'r_intersectionWith'
+    'body': """
+    const intersectionWith = require('lodash/intersectionWith');
+    """
+  'CJS lodash/invert':
+    'prefix': 'r_invert'
+    'body': """
+    const invert = require('lodash/invert');
+    """
+  'CJS lodash/invoke':
+    'prefix': 'r_invoke'
+    'body': """
+    const invoke = require('lodash/invoke');
+    """
+  'CJS lodash/invokeMap':
+    'prefix': 'r_invokeMap'
+    'body': """
+    const invokeMap = require('lodash/invokeMap');
+    """
+  'CJS lodash/isArguments':
+    'prefix': 'r_isArguments'
+    'body': """
+    const isArguments = require('lodash/isArguments');
+    """
+  'CJS lodash/isArray':
+    'prefix': 'r_isArray'
+    'body': """
+    const isArray = require('lodash/isArray');
+    """
+  'CJS lodash/isArrayLike':
+    'prefix': 'r_isArrayLike'
+    'body': """
+    const isArrayLike = require('lodash/isArrayLike');
+    """
+  'CJS lodash/isArrayLikeObject':
+    'prefix': 'r_isArrayLikeObject'
+    'body': """
+    const isArrayLikeObject = require('lodash/isArrayLikeObject');
+    """
+  'CJS lodash/isBoolean':
+    'prefix': 'r_isBoolean'
+    'body': """
+    const isBoolean = require('lodash/isBoolean');
+    """
+  'CJS lodash/isDate':
+    'prefix': 'r_isDate'
+    'body': """
+    const isDate = require('lodash/isDate');
+    """
+  'CJS lodash/isElement':
+    'prefix': 'r_isElement'
+    'body': """
+    const isElement = require('lodash/isElement');
+    """
+  'CJS lodash/isEmpty':
+    'prefix': 'r_isEmpty'
+    'body': """
+    const isEmpty = require('lodash/isEmpty');
+    """
+  'CJS lodash/isEqual':
+    'prefix': 'r_isEqual'
+    'body': """
+    const isEqual = require('lodash/isEqual');
+    """
+  'CJS lodash/isEqualWith':
+    'prefix': 'r_isEqualWith'
+    'body': """
+    const isEqualWith = require('lodash/isEqualWith');
+    """
+  'CJS lodash/isError':
+    'prefix': 'r_isError'
+    'body': """
+    const isError = require('lodash/isError');
+    """
+  'CJS lodash/isFinite':
+    'prefix': 'r_isFinite'
+    'body': """
+    const _isFinite = require('lodash/isFinite');
+    """
+  'CJS lodash/isFunction':
+    'prefix': 'r_isFunction'
+    'body': """
+    const isFunction = require('lodash/isFunction');
+    """
+  'CJS lodash/isInteger':
+    'prefix': 'r_isInteger'
+    'body': """
+    const isInteger = require('lodash/isInteger');
+    """
+  'CJS lodash/isLength':
+    'prefix': 'r_isLength'
+    'body': """
+    const isLength = require('lodash/isLength');
+    """
+  'CJS lodash/isMatch':
+    'prefix': 'r_isMatch'
+    'body': """
+    const isMatch = require('lodash/isMatch');
+    """
+  'CJS lodash/isMatchWith':
+    'prefix': 'r_isMatchWith'
+    'body': """
+    const isMatchWith = require('lodash/isMatchWith');
+    """
+  'CJS lodash/isNaN':
+    'prefix': 'r_isNaN'
+    'body': """
+    const _isNaN = require('lodash/isNaN');
+    """
+  'CJS lodash/isNative':
+    'prefix': 'r_isNative'
+    'body': """
+    const isNative = require('lodash/isNative');
+    """
+  'CJS lodash/isNil':
+    'prefix': 'r_isNil'
+    'body': """
+    const isNil = require('lodash/isNil');
+    """
+  'CJS lodash/isNull':
+    'prefix': 'r_isNull'
+    'body': """
+    const isNull = require('lodash/isNull');
+    """
+  'CJS lodash/isNumber':
+    'prefix': 'r_isNumber'
+    'body': """
+    const isNumber = require('lodash/isNumber');
+    """
+  'CJS lodash/isObject':
+    'prefix': 'r_isObject'
+    'body': """
+    const isObject = require('lodash/isObject');
+    """
+  'CJS lodash/isObjectLike':
+    'prefix': 'r_isObjectLike'
+    'body': """
+    const isObjectLike = require('lodash/isObjectLike');
+    """
+  'CJS lodash/isPlainObject':
+    'prefix': 'r_isPlainObject'
+    'body': """
+    const isPlainObject = require('lodash/isPlainObject');
+    """
+  'CJS lodash/isRegExp':
+    'prefix': 'r_isRegExp'
+    'body': """
+    const isRegExp = require('lodash/isRegExp');
+    """
+  'CJS lodash/isSafeInteger':
+    'prefix': 'r_isSafeInteger'
+    'body': """
+    const isSafeInteger = require('lodash/isSafeInteger');
+    """
+  'CJS lodash/isString':
+    'prefix': 'r_isString'
+    'body': """
+    const isString = require('lodash/isString');
+    """
+  'CJS lodash/isSymbol':
+    'prefix': 'r_isSymbol'
+    'body': """
+    const isSymbol = require('lodash/isSymbol');
+    """
+  'CJS lodash/isTypedArray':
+    'prefix': 'r_isTypedArray'
+    'body': """
+    const isTypedArray = require('lodash/isTypedArray');
+    """
+  'CJS lodash/isUndefined':
+    'prefix': 'r_isUndefined'
+    'body': """
+    const isUndefined = require('lodash/isUndefined');
+    """
+  'CJS lodash/iteratee':
+    'prefix': 'r_iteratee'
+    'body': """
+    const iteratee = require('lodash/iteratee');
+    """
+  'CJS lodash/join':
+    'prefix': 'r_join'
+    'body': """
+    const join = require('lodash/join');
+    """
+  'CJS lodash/kebabCase':
+    'prefix': 'r_kebabCase'
+    'body': """
+    const kebabCase = require('lodash/kebabCase');
+    """
+  'CJS lodash/keyBy':
+    'prefix': 'r_keyBy'
+    'body': """
+    const keyBy = require('lodash/keyBy');
+    """
+  'CJS lodash/keys':
+    'prefix': 'r_keys'
+    'body': """
+    const keys = require('lodash/keys');
+    """
+  'CJS lodash/keysIn':
+    'prefix': 'r_keysIn'
+    'body': """
+    const keysIn = require('lodash/keysIn');
+    """
+  'CJS lodash/lang':
+    'prefix': 'r_lang'
+    'body': """
+    const lang = require('lodash/lang');
+    """
+  'CJS lodash/last':
+    'prefix': 'r_last'
+    'body': """
+    const last = require('lodash/last');
+    """
+  'CJS lodash/lastIndexOf':
+    'prefix': 'r_lastIndexOf'
+    'body': """
+    const lastIndexOf = require('lodash/lastIndexOf');
+    """
+  'CJS lodash/lowerCase':
+    'prefix': 'r_lowerCase'
+    'body': """
+    const lowerCase = require('lodash/lowerCase');
+    """
+  'CJS lodash/lowerFirst':
+    'prefix': 'r_lowerFirst'
+    'body': """
+    const lowerFirst = require('lodash/lowerFirst');
+    """
+  'CJS lodash/lt':
+    'prefix': 'r_lt'
+    'body': """
+    const lt = require('lodash/lt');
+    """
+  'CJS lodash/lte':
+    'prefix': 'r_lte'
+    'body': """
+    const lte = require('lodash/lte');
+    """
+  'CJS lodash/map':
+    'prefix': 'r_map'
+    'body': """
+    const map = require('lodash/map');
+    """
+  'CJS lodash/mapKeys':
+    'prefix': 'r_mapKeys'
+    'body': """
+    const mapKeys = require('lodash/mapKeys');
+    """
+  'CJS lodash/mapValues':
+    'prefix': 'r_mapValues'
+    'body': """
+    const mapValues = require('lodash/mapValues');
+    """
+  'CJS lodash/matches':
+    'prefix': 'r_matches'
+    'body': """
+    const matches = require('lodash/matches');
+    """
+  'CJS lodash/matchesProperty':
+    'prefix': 'r_matchesProperty'
+    'body': """
+    const matchesProperty = require('lodash/matchesProperty');
+    """
+  'CJS lodash/math':
+    'prefix': 'r_math'
+    'body': """
+    const math = require('lodash/math');
+    """
+  'CJS lodash/max':
+    'prefix': 'r_max'
+    'body': """
+    const max = require('lodash/max');
+    """
+  'CJS lodash/maxBy':
+    'prefix': 'r_maxBy'
+    'body': """
+    const maxBy = require('lodash/maxBy');
+    """
+  'CJS lodash/mean':
+    'prefix': 'r_mean'
+    'body': """
+    const mean = require('lodash/mean');
+    """
+  'CJS lodash/memoize':
+    'prefix': 'r_memoize'
+    'body': """
+    const memoize = require('lodash/memoize');
+    """
+  'CJS lodash/merge':
+    'prefix': 'r_merge'
+    'body': """
+    const merge = require('lodash/merge');
+    """
+  'CJS lodash/mergeWith':
+    'prefix': 'r_mergeWith'
+    'body': """
+    const mergeWith = require('lodash/mergeWith');
+    """
+  'CJS lodash/method':
+    'prefix': 'r_method'
+    'body': """
+    const method = require('lodash/method');
+    """
+  'CJS lodash/methodOf':
+    'prefix': 'r_methodOf'
+    'body': """
+    const methodOf = require('lodash/methodOf');
+    """
+  'CJS lodash/min':
+    'prefix': 'r_min'
+    'body': """
+    const min = require('lodash/min');
+    """
+  'CJS lodash/minBy':
+    'prefix': 'r_minBy'
+    'body': """
+    const minBy = require('lodash/minBy');
+    """
+  'CJS lodash/mixin':
+    'prefix': 'r_mixin'
+    'body': """
+    const mixin = require('lodash/mixin');
+    """
+  'CJS lodash/negate':
+    'prefix': 'r_negate'
+    'body': """
+    const negate = require('lodash/negate');
+    """
+  'CJS lodash/next':
+    'prefix': 'r_next'
+    'body': """
+    const next = require('lodash/next');
+    """
+  'CJS lodash/noop':
+    'prefix': 'r_noop'
+    'body': """
+    const noop = require('lodash/noop');
+    """
+  'CJS lodash/now':
+    'prefix': 'r_now'
+    'body': """
+    const now = require('lodash/now');
+    """
+  'CJS lodash/nthArg':
+    'prefix': 'r_nthArg'
+    'body': """
+    const nthArg = require('lodash/nthArg');
+    """
+  'CJS lodash/number':
+    'prefix': 'r_number'
+    'body': """
+    const number = require('lodash/number');
+    """
+  'CJS lodash/object':
+    'prefix': 'r_object'
+    'body': """
+    const object = require('lodash/object');
+    """
+  'CJS lodash/omit':
+    'prefix': 'r_omit'
+    'body': """
+    const omit = require('lodash/omit');
+    """
+  'CJS lodash/omitBy':
+    'prefix': 'r_omitBy'
+    'body': """
+    const omitBy = require('lodash/omitBy');
+    """
+  'CJS lodash/once':
+    'prefix': 'r_once'
+    'body': """
+    const once = require('lodash/once');
+    """
+  'CJS lodash/orderBy':
+    'prefix': 'r_orderBy'
+    'body': """
+    const orderBy = require('lodash/orderBy');
+    """
+  'CJS lodash/over':
+    'prefix': 'r_over'
+    'body': """
+    const over = require('lodash/over');
+    """
+  'CJS lodash/overArgs':
+    'prefix': 'r_overArgs'
+    'body': """
+    const overArgs = require('lodash/overArgs');
+    """
+  'CJS lodash/overEvery':
+    'prefix': 'r_overEvery'
+    'body': """
+    const overEvery = require('lodash/overEvery');
+    """
+  'CJS lodash/overSome':
+    'prefix': 'r_overSome'
+    'body': """
+    const overSome = require('lodash/overSome');
+    """
+  'CJS lodash/pad':
+    'prefix': 'r_pad'
+    'body': """
+    const pad = require('lodash/pad');
+    """
+  'CJS lodash/padEnd':
+    'prefix': 'r_padEnd'
+    'body': """
+    const padEnd = require('lodash/padEnd');
+    """
+  'CJS lodash/padStart':
+    'prefix': 'r_padStart'
+    'body': """
+    const padStart = require('lodash/padStart');
+    """
+  'CJS lodash/parseInt':
+    'prefix': 'r_parseInt'
+    'body': """
+    const parseInt = require('lodash/parseInt');
+    """
+  'CJS lodash/partial':
+    'prefix': 'r_partial'
+    'body': """
+    const partial = require('lodash/partial');
+    """
+  'CJS lodash/partialRight':
+    'prefix': 'r_partialRight'
+    'body': """
+    const partialRight = require('lodash/partialRight');
+    """
+  'CJS lodash/partition':
+    'prefix': 'r_partition'
+    'body': """
+    const partition = require('lodash/partition');
+    """
+  'CJS lodash/pick':
+    'prefix': 'r_pick'
+    'body': """
+    const pick = require('lodash/pick');
+    """
+  'CJS lodash/pickBy':
+    'prefix': 'r_pickBy'
+    'body': """
+    const pickBy = require('lodash/pickBy');
+    """
+  'CJS lodash/plant':
+    'prefix': 'r_plant'
+    'body': """
+    const plant = require('lodash/plant');
+    """
+  'CJS lodash/property':
+    'prefix': 'r_property'
+    'body': """
+    const property = require('lodash/property');
+    """
+  'CJS lodash/propertyOf':
+    'prefix': 'r_propertyOf'
+    'body': """
+    const propertyOf = require('lodash/propertyOf');
+    """
+  'CJS lodash/pull':
+    'prefix': 'r_pull'
+    'body': """
+    const pull = require('lodash/pull');
+    """
+  'CJS lodash/pullAll':
+    'prefix': 'r_pullAll'
+    'body': """
+    const pullAll = require('lodash/pullAll');
+    """
+  'CJS lodash/pullAllBy':
+    'prefix': 'r_pullAllBy'
+    'body': """
+    const pullAllBy = require('lodash/pullAllBy');
+    """
+  'CJS lodash/pullAt':
+    'prefix': 'r_pullAt'
+    'body': """
+    const pullAt = require('lodash/pullAt');
+    """
+  'CJS lodash/random':
+    'prefix': 'r_random'
+    'body': """
+    const random = require('lodash/random');
+    """
+  'CJS lodash/range':
+    'prefix': 'r_range'
+    'body': """
+    const range = require('lodash/range');
+    """
+  'CJS lodash/rangeRight':
+    'prefix': 'r_rangeRight'
+    'body': """
+    const rangeRight = require('lodash/rangeRight');
+    """
+  'CJS lodash/rearg':
+    'prefix': 'r_rearg'
+    'body': """
+    const rearg = require('lodash/rearg');
+    """
+  'CJS lodash/reduce':
+    'prefix': 'r_reduce'
+    'body': """
+    const reduce = require('lodash/reduce');
+    """
+  'CJS lodash/reduceRight':
+    'prefix': 'r_reduceRight'
+    'body': """
+    const reduceRight = require('lodash/reduceRight');
+    """
+  'CJS lodash/reject':
+    'prefix': 'r_reject'
+    'body': """
+    const reject = require('lodash/reject');
+    """
+  'CJS lodash/remove':
+    'prefix': 'r_remove'
+    'body': """
+    const remove = require('lodash/remove');
+    """
+  'CJS lodash/repeat':
+    'prefix': 'r_repeat'
+    'body': """
+    const repeat = require('lodash/repeat');
+    """
+  'CJS lodash/replace':
+    'prefix': 'r_replace'
+    'body': """
+    const replace = require('lodash/replace');
+    """
+  'CJS lodash/rest':
+    'prefix': 'r_rest'
+    'body': """
+    const rest = require('lodash/rest');
+    """
+  'CJS lodash/result':
+    'prefix': 'r_result'
+    'body': """
+    const result = require('lodash/result');
+    """
+  'CJS lodash/reverse':
+    'prefix': 'r_reverse'
+    'body': """
+    const reverse = require('lodash/reverse');
+    """
+  'CJS lodash/round':
+    'prefix': 'r_round'
+    'body': """
+    const round = require('lodash/round');
+    """
+  'CJS lodash/sample':
+    'prefix': 'r_sample'
+    'body': """
+    const sample = require('lodash/sample');
+    """
+  'CJS lodash/sampleSize':
+    'prefix': 'r_sampleSize'
+    'body': """
+    const sampleSize = require('lodash/sampleSize');
+    """
+  'CJS lodash/seq':
+    'prefix': 'r_seq'
+    'body': """
+    const seq = require('lodash/seq');
+    """
+  'CJS lodash/set':
+    'prefix': 'r_set'
+    'body': """
+    const set = require('lodash/set');
+    """
+  'CJS lodash/setWith':
+    'prefix': 'r_setWith'
+    'body': """
+    const setWith = require('lodash/setWith');
+    """
+  'CJS lodash/shuffle':
+    'prefix': 'r_shuffle'
+    'body': """
+    const shuffle = require('lodash/shuffle');
+    """
+  'CJS lodash/size':
+    'prefix': 'r_size'
+    'body': """
+    const size = require('lodash/size');
+    """
+  'CJS lodash/slice':
+    'prefix': 'r_slice'
+    'body': """
+    const slice = require('lodash/slice');
+    """
+  'CJS lodash/snakeCase':
+    'prefix': 'r_snakeCase'
+    'body': """
+    const snakeCase = require('lodash/snakeCase');
+    """
+  'CJS lodash/some':
+    'prefix': 'r_some'
+    'body': """
+    const some = require('lodash/some');
+    """
+  'CJS lodash/sortBy':
+    'prefix': 'r_sortBy'
+    'body': """
+    const sortBy = require('lodash/sortBy');
+    """
+  'CJS lodash/sortedIndex':
+    'prefix': 'r_sortedIndex'
+    'body': """
+    const sortedIndex = require('lodash/sortedIndex');
+    """
+  'CJS lodash/sortedIndexBy':
+    'prefix': 'r_sortedIndexBy'
+    'body': """
+    const sortedIndexBy = require('lodash/sortedIndexBy');
+    """
+  'CJS lodash/sortedIndexOf':
+    'prefix': 'r_sortedIndexOf'
+    'body': """
+    const sortedIndexOf = require('lodash/sortedIndexOf');
+    """
+  'CJS lodash/sortedLastIndex':
+    'prefix': 'r_sortedLastIndex'
+    'body': """
+    const sortedLastIndex = require('lodash/sortedLastIndex');
+    """
+  'CJS lodash/sortedLastIndexBy':
+    'prefix': 'r_sortedLastIndexBy'
+    'body': """
+    const sortedLastIndexBy = require('lodash/sortedLastIndexBy');
+    """
+  'CJS lodash/sortedLastIndexOf':
+    'prefix': 'r_sortedLastIndexOf'
+    'body': """
+    const sortedLastIndexOf = require('lodash/sortedLastIndexOf');
+    """
+  'CJS lodash/sortedUniq':
+    'prefix': 'r_sortedUniq'
+    'body': """
+    const sortedUniq = require('lodash/sortedUniq');
+    """
+  'CJS lodash/sortedUniqBy':
+    'prefix': 'r_sortedUniqBy'
+    'body': """
+    const sortedUniqBy = require('lodash/sortedUniqBy');
+    """
+  'CJS lodash/split':
+    'prefix': 'r_split'
+    'body': """
+    const split = require('lodash/split');
+    """
+  'CJS lodash/spread':
+    'prefix': 'r_spread'
+    'body': """
+    const spread = require('lodash/spread');
+    """
+  'CJS lodash/startCase':
+    'prefix': 'r_startCase'
+    'body': """
+    const startCase = require('lodash/startCase');
+    """
+  'CJS lodash/startsWith':
+    'prefix': 'r_startsWith'
+    'body': """
+    const startsWith = require('lodash/startsWith');
+    """
+  'CJS lodash/string':
+    'prefix': 'r_string'
+    'body': """
+    const string = require('lodash/string');
+    """
+  'CJS lodash/subtract':
+    'prefix': 'r_subtract'
+    'body': """
+    const subtract = require('lodash/subtract');
+    """
+  'CJS lodash/sum':
+    'prefix': 'r_sum'
+    'body': """
+    const sum = require('lodash/sum');
+    """
+  'CJS lodash/sumBy':
+    'prefix': 'r_sumBy'
+    'body': """
+    const sumBy = require('lodash/sumBy');
+    """
+  'CJS lodash/tail':
+    'prefix': 'r_tail'
+    'body': """
+    const tail = require('lodash/tail');
+    """
+  'CJS lodash/take':
+    'prefix': 'r_take'
+    'body': """
+    const take = require('lodash/take');
+    """
+  'CJS lodash/takeRight':
+    'prefix': 'r_takeRight'
+    'body': """
+    const takeRight = require('lodash/takeRight');
+    """
+  'CJS lodash/takeRightWhile':
+    'prefix': 'r_takeRightWhile'
+    'body': """
+    const takeRightWhile = require('lodash/takeRightWhile');
+    """
+  'CJS lodash/takeWhile':
+    'prefix': 'r_takeWhile'
+    'body': """
+    const takeWhile = require('lodash/takeWhile');
+    """
+  'CJS lodash/tap':
+    'prefix': 'r_tap'
+    'body': """
+    const tap = require('lodash/tap');
+    """
+  'CJS lodash/template':
+    'prefix': 'r_template'
+    'body': """
+    const template = require('lodash/template');
+    """
+  'CJS lodash/templateSettings':
+    'prefix': 'r_templateSettings'
+    'body': """
+    const templateSettings = require('lodash/templateSettings');
+    """
+  'CJS lodash/throttle':
+    'prefix': 'r_throttle'
+    'body': """
+    const throttle = require('lodash/throttle');
+    """
+  'CJS lodash/thru':
+    'prefix': 'r_thru'
+    'body': """
+    const thru = require('lodash/thru');
+    """
+  'CJS lodash/times':
+    'prefix': 'r_times'
+    'body': """
+    const times = require('lodash/times');
+    """
+  'CJS lodash/toArray':
+    'prefix': 'r_toArray'
+    'body': """
+    const toArray = require('lodash/toArray');
+    """
+  'CJS lodash/toInteger':
+    'prefix': 'r_toInteger'
+    'body': """
+    const toInteger = require('lodash/toInteger');
+    """
+  'CJS lodash/toIterator':
+    'prefix': 'r_toIterator'
+    'body': """
+    const toIterator = require('lodash/toIterator');
+    """
+  'CJS lodash/toJSON':
+    'prefix': 'r_toJSON'
+    'body': """
+    const toJSON = require('lodash/toJSON');
+    """
+  'CJS lodash/toLength':
+    'prefix': 'r_toLength'
+    'body': """
+    const toLength = require('lodash/toLength');
+    """
+  'CJS lodash/toLower':
+    'prefix': 'r_toLower'
+    'body': """
+    const toLower = require('lodash/toLower');
+    """
+  'CJS lodash/toNumber':
+    'prefix': 'r_toNumber'
+    'body': """
+    const toNumber = require('lodash/toNumber');
+    """
+  'CJS lodash/toPairs':
+    'prefix': 'r_toPairs'
+    'body': """
+    const toPairs = require('lodash/toPairs');
+    """
+  'CJS lodash/toPairsIn':
+    'prefix': 'r_toPairsIn'
+    'body': """
+    const toPairsIn = require('lodash/toPairsIn');
+    """
+  'CJS lodash/toPath':
+    'prefix': 'r_toPath'
+    'body': """
+    const toPath = require('lodash/toPath');
+    """
+  'CJS lodash/toPlainObject':
+    'prefix': 'r_toPlainObject'
+    'body': """
+    const toPlainObject = require('lodash/toPlainObject');
+    """
+  'CJS lodash/toSafeInteger':
+    'prefix': 'r_toSafeInteger'
+    'body': """
+    const toSafeInteger = require('lodash/toSafeInteger');
+    """
+  'CJS lodash/toString':
+    'prefix': 'r_toString'
+    'body': """
+    const toString = require('lodash/toString');
+    """
+  'CJS lodash/toUpper':
+    'prefix': 'r_toUpper'
+    'body': """
+    const toUpper = require('lodash/toUpper');
+    """
+  'CJS lodash/transform':
+    'prefix': 'r_transform'
+    'body': """
+    const transform = require('lodash/transform');
+    """
+  'CJS lodash/trim':
+    'prefix': 'r_trim'
+    'body': """
+    const trim = require('lodash/trim');
+    """
+  'CJS lodash/trimEnd':
+    'prefix': 'r_trimEnd'
+    'body': """
+    const trimEnd = require('lodash/trimEnd');
+    """
+  'CJS lodash/trimStart':
+    'prefix': 'r_trimStart'
+    'body': """
+    const trimStart = require('lodash/trimStart');
+    """
+  'CJS lodash/truncate':
+    'prefix': 'r_truncate'
+    'body': """
+    const truncate = require('lodash/truncate');
+    """
+  'CJS lodash/unary':
+    'prefix': 'r_unary'
+    'body': """
+    const unary = require('lodash/unary');
+    """
+  'CJS lodash/unescape':
+    'prefix': 'r_unescape'
+    'body': """
+    const unescape = require('lodash/unescape');
+    """
+  'CJS lodash/union':
+    'prefix': 'r_union'
+    'body': """
+    const union = require('lodash/union');
+    """
+  'CJS lodash/unionBy':
+    'prefix': 'r_unionBy'
+    'body': """
+    const unionBy = require('lodash/unionBy');
+    """
+  'CJS lodash/unionWith':
+    'prefix': 'r_unionWith'
+    'body': """
+    const unionWith = require('lodash/unionWith');
+    """
+  'CJS lodash/uniq':
+    'prefix': 'r_uniq'
+    'body': """
+    const uniq = require('lodash/uniq');
+    """
+  'CJS lodash/uniqBy':
+    'prefix': 'r_uniqBy'
+    'body': """
+    const uniqBy = require('lodash/uniqBy');
+    """
+  'CJS lodash/uniqWith':
+    'prefix': 'r_uniqWith'
+    'body': """
+    const uniqWith = require('lodash/uniqWith');
+    """
+  'CJS lodash/uniqueId':
+    'prefix': 'r_uniqueId'
+    'body': """
+    const uniqueId = require('lodash/uniqueId');
+    """
+  'CJS lodash/unset':
+    'prefix': 'r_unset'
+    'body': """
+    const unset = require('lodash/unset');
+    """
+  'CJS lodash/unzip':
+    'prefix': 'r_unzip'
+    'body': """
+    const unzip = require('lodash/unzip');
+    """
+  'CJS lodash/unzipWith':
+    'prefix': 'r_unzipWith'
+    'body': """
+    const unzipWith = require('lodash/unzipWith');
+    """
+  'CJS lodash/upperCase':
+    'prefix': 'r_upperCase'
+    'body': """
+    const upperCase = require('lodash/upperCase');
+    """
+  'CJS lodash/upperFirst':
+    'prefix': 'r_upperFirst'
+    'body': """
+    const upperFirst = require('lodash/upperFirst');
+    """
+  'CJS lodash/util':
+    'prefix': 'r_util'
+    'body': """
+    const util = require('lodash/util');
+    """
+  'CJS lodash/value':
+    'prefix': 'r_value'
+    'body': """
+    const value = require('lodash/value');
+    """
+  'CJS lodash/valueOf':
+    'prefix': 'r_valueOf'
+    'body': """
+    const _valueOf = require('lodash/valueOf');
+    """
+  'CJS lodash/values':
+    'prefix': 'r_values'
+    'body': """
+    const values = require('lodash/values');
+    """
+  'CJS lodash/valuesIn':
+    'prefix': 'r_valuesIn'
+    'body': """
+    const valuesIn = require('lodash/valuesIn');
+    """
+  'CJS lodash/without':
+    'prefix': 'r_without'
+    'body': """
+    const without = require('lodash/without');
+    """
+  'CJS lodash/words':
+    'prefix': 'r_words'
+    'body': """
+    const words = require('lodash/words');
+    """
+  'CJS lodash/wrap':
+    'prefix': 'r_wrap'
+    'body': """
+    const wrap = require('lodash/wrap');
+    """
+  'CJS lodash/wrapperAt':
+    'prefix': 'r_wrapperAt'
+    'body': """
+    const wrapperAt = require('lodash/wrapperAt');
+    """
+  'CJS lodash/wrapperChain':
+    'prefix': 'r_wrapperChain'
+    'body': """
+    const wrapperChain = require('lodash/wrapperChain');
+    """
+  'CJS lodash/wrapperFlatMap':
+    'prefix': 'r_wrapperFlatMap'
+    'body': """
+    const wrapperFlatMap = require('lodash/wrapperFlatMap');
+    """
+  'CJS lodash/wrapperLodash':
+    'prefix': 'r_wrapperLodash'
+    'body': """
+    const wrapperLodash = require('lodash/wrapperLodash');
+    """
+  'CJS lodash/wrapperReverse':
+    'prefix': 'r_wrapperReverse'
+    'body': """
+    const wrapperReverse = require('lodash/wrapperReverse');
+    """
+  'CJS lodash/wrapperValue':
+    'prefix': 'r_wrapperValue'
+    'body': """
+    const wrapperValue = require('lodash/wrapperValue');
+    """
+  'CJS lodash/xor':
+    'prefix': 'r_xor'
+    'body': """
+    const xor = require('lodash/xor');
+    """
+  'CJS lodash/xorBy':
+    'prefix': 'r_xorBy'
+    'body': """
+    const xorBy = require('lodash/xorBy');
+    """
+  'CJS lodash/xorWith':
+    'prefix': 'r_xorWith'
+    'body': """
+    const xorWith = require('lodash/xorWith');
+    """
+  'CJS lodash/zip':
+    'prefix': 'r_zip'
+    'body': """
+    const zip = require('lodash/zip');
+    """
+  'CJS lodash/zipObject':
+    'prefix': 'r_zipObject'
+    'body': """
+    const zipObject = require('lodash/zipObject');
+    """
+  'CJS lodash/zipWith':
+    'prefix': 'r_zipWith'
+    'body': """
+    const zipWith = require('lodash/zipWith');
+    """
+  'CJS lodash':
+    'prefix': 'r_lodash'
+    'body': """
+    const _ = require('lodash');
+    """

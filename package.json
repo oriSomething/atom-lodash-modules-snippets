@@ -1,0 +1,20 @@
+{
+  "name": "lodash-modules-snippets",
+  "version": "0.1.0",
+  "description": "Lodash modules snippets for Atom",
+  "keywords": [
+    "atom",
+    "text",
+    "lodash",
+    "modules",
+    "snippets"
+  ],
+  "repository": "https://github.com/oriSomething/atom-lodash-modules-snippets.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.0.0"
+  }
+}
